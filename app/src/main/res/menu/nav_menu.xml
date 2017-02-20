@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group  android:checkableBehavior="single">
+        <item
+            android:id="@+id/hulianwang_anquan"
+            android:title="互联网安全"
+            />
+        <item
+            android:id="@+id/start_game"
+            android:title="开始游戏"
+            />
+        <item
+            android:id="@+id/yonghu_tuijian"
+            android:title="用户推荐日报"
+            />
+        <item
+            android:id="@+id/film"
+            android:title="电影日报"
+            />
+
+        <item
+            android:id="@+id/design"
+            android:title="设计日报"
+            />
+        <item
+            android:id="@+id/big_company"
+            android:title="大公司日报"
+            />
+        <item
+            android:id="@+id/sports"
+            android:title="体育日报"
+            />
+    </group>
+</menu>
